@@ -1,0 +1,19 @@
+{
+    "name": "carlos/app",
+    "description": "Prueba tecnica php alphas",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Carlos\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Taborda",
+            "email": "ca.taborda.ramirez@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
